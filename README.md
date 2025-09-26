@@ -1,0 +1,1 @@
+(FRAS) is a classroom attendance tool where each student registers their face once. When they appear before the camera, the system automatically marks their attendance, stores it in a CSV file, and generates a PDF report for the instructor.
